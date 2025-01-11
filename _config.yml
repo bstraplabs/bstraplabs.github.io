@@ -1,7 +1,7 @@
 # site settings
 title: Bootstrap Labs
 subtitle: The Perpetual Research Machine
-email: info@bootstraplabs.ai
+email: hello@bootstraplabs.ai
 description: You can't build insight looking at the same data as everyone else.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://www.bootstraplabs.ai # the base hostname & protocol for your site
